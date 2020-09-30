@@ -1,0 +1,29 @@
+html,body{
+  height:100%;
+  background-color: #cff1ef;
+  text-align: center;
+  font-family: "Montserrat";
+
+
+}
+.review-form{
+  margin:40px auto;
+}
+.page-wrapper{
+
+  min-height: 100%;
+}
+#Footer-review{
+  position: relative;
+  bottom: 0;
+}
+
+@media (max-width: 1028px){
+  .form-sec{
+    padding-top: 100px;
+  }
+}
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}

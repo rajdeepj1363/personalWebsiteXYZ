@@ -1,0 +1,34 @@
+html,body{
+  height:100%;
+  background-color: #cff1ef;
+  text-align: center;
+  position: relative;
+}
+#Footer-about{
+  position: relative;
+  bottom: 0;
+}
+p{
+  margin: 5% auto;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+.github_icon{
+  font-size: 60px;
+  margin-bottom: 0;
+}
+.col{
+  margin-top: 0;
+}
+.review{
+  margin-bottom: 20px;
+}
+.page-wrapper{
+  min-height: 100%;
+}
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}

@@ -1,0 +1,21 @@
+$("#programmercaption").slideUp(0);
+$("#mid-sec").slideUp(0);
+$(".bottom-div").slideUp(0);
+$("#contactid").slideUp(0);
+$("#index-footer").slideUp(0);
+$("#rajdeepname").slideUp(0).slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+setTimeout(function(){
+  $("#programmercaption").slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+},3000);
+setTimeout(function(){
+  $("#mid-sec").slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+},5000);
+setTimeout(function(){
+  $(".bottom-div").slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+},7500);
+setTimeout(function(){
+  $("#contactid").slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+},10000);
+setTimeout(function(){
+  $("#index-footer").slideDown(1000).fadeIn(500).fadeOut(500).fadeIn(500);
+},12500);
